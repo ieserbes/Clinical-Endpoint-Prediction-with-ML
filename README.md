@@ -6,6 +6,9 @@ https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0694-1?repor
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE49710 (information related to dataset)
 
 
+
+Analysis report can be found in "Clinical Endpoint Prediction Report.docx" file
+
 Introduction:
 
 In this analysis, I leveraged two datasets:
